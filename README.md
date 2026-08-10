@@ -2,4 +2,4 @@
 <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zz106603&show_icons=true&theme=radical" width="350"> -->
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=zz106603&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=zz106603&langs_count=4&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=aura)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=zz106603&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=aura)
